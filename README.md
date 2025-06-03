@@ -1,4 +1,4 @@
-# Framer
+# Welcome to Framer!
 *Take the guesswork out of your artwork!*
 
 Ever made a wrong cut because your brain decided math was optional that day? Me too. That’s why I built **Framer** — a no-nonsense Python script that lets you *see* what your framed masterpiece will actually look like **before** you pick up the mat cutter and ruin a perfectly good Sunday.
@@ -26,7 +26,12 @@ And it gives you:
 Because:
 - Mental math is a trap  
 - Visualization prevents heartbreak  
-- Watching `turtle` draw rectangles is deeply therapeutic  
+- Watching `turtle` draw rectangles is deeply therapeutic
+
+---
+
+## 📦 Requirements  
+- Python 3.x  
 
 ---
 
